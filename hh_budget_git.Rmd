@@ -1,0 +1,17 @@
+---
+title: 'Household Debt, Savings, and Unemployment: An OECD Panel Analysis'
+output: html_document
+date: "2026-09-09"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## Load the Data
+
+```{r}
+hh_budget <- read.csv("hh_budget.csv")
+```
