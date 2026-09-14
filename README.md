@@ -19,4 +19,4 @@ Partially, but in the opposite direction hypothesized — higher-wealth countrie
 Built in R using the tidyverse (dplyr, ggplot2, tidyr) and base R linear regression, including interaction models to test whether relationships between variables changed over time or varied by wealth level.
 
 ## Reproducing this analysis
-The full R Markdown source (`hh_budget_git.Rmd`) and dataset (`hh_budget.csv`) are included in this repo — knit the `.Rmd` file in RStudio to regenerate the report.
+The full [R Markdown source](hh_budget_git.Rmd) and [dataset](hh_budget.csv) are included in this repo — knit the `.Rmd` file in RStudio to regenerate the report.
